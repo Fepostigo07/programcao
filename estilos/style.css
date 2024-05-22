@@ -20,13 +20,8 @@ a {
 }
 
 main {
-    background-color: lightgray;
+    background-image: linear-gradient( 180deg, lightgray, gray);
 }
-
-.escola {
-    background-image: url('../imagens/escola.png');
-}
-
 .p1 h1,main p {
     width: 500px;
     margin: auto;
